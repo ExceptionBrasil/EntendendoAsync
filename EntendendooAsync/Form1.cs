@@ -37,7 +37,7 @@ namespace EntendendooAsync
         /// <param name="e">The <see cref="EventArgs"/> instance containing the event data.</param>
         private void btnGetData_Click(object sender, EventArgs e)
         {
-            tBox1.Text = "";
+            tBox1.Text = ""; 
 
             var watch = System.Diagnostics.Stopwatch.StartNew();
 

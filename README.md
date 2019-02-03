@@ -1,2 +1,2 @@
-# EntendendooAsync
-Projeto simples para entender como funciona o processamento Assícrono
+# Entendendo o Async
+Pequeno projeto feito em Windows Forms, para poder explicar o funcionamento do processameno síncrono e assíncrono.
